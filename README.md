@@ -20,7 +20,6 @@ Ever wished you could grasp the essence of lengthy YouTube videos without dedica
 
 ## 🛠 Technologies Used
 - Python: The backbone of our application.
-- Streamlit: For creating an interactive web interface.
 - YouTube Transcript API: To retrieve video transcripts.
 - Gemini API: Powers the summarization engine.
 
