@@ -1,4 +1,0 @@
-Flask
-youtube_transcript_api
-google-generativeai
-nltk
